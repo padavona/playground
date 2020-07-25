@@ -11,3 +11,5 @@ this one, too
 
 Added this line on ubuntu lap
 
+Added this line on local new-branch-renamed
+
