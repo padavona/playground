@@ -5,3 +5,4 @@ foo bar
 Added on conflicttest
 Added on master
 Added on conflicttest2
+Added on master
