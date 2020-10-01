@@ -4,3 +4,4 @@ eine neue Zeile
 foo bar
 Added on conflicttest
 Added on master
+Added on master
