@@ -2,4 +2,4 @@ Neue Datei im Branch
 eine neue Zeile
 
 foo bar
-
+Added on master
